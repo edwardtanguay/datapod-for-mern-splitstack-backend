@@ -1,4 +1,4 @@
-# datapod-for-splitstack-lern-backend
+# datapod-for-splitstack-mern-backend
 
 This is the backend of a splitstack React/Node/Express/lowdb-json application.
 
